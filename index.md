@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image](https://gist.github.com/Floris-Koekies/71845d285cc332be97ee0a2d419d093a.js)
+![Image](https://gist.github.com/Floris-Koekies/71845d285cc332be97ee0a2d419d093a)
 
 You can use the [editor on GitHub](https://github.com/Floris-Koekies/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://gist.github.com/Floris-Koekies/71845d285cc332be97ee0a2d419d093a.js)
+[Link](url) and ![Image](https://gist.github.com/Floris-Koekies/71845d285cc332be97ee0a2d419d093a)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
