@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image](https://svgshare.com/s/a8U)
+![Image](https://svgshare.com/i/a8U.svg)
 
 You can use the [editor on GitHub](https://github.com/Floris-Koekies/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://svgshare.com/s/a8U)
+[Link](url) and ![Image](https://svgshare.com/i/a8U.svg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
